@@ -1,21 +1,11 @@
-.icons {
-  color: blue;
-  padding: 0 10px;
-  font-size: 25px;
-  line-height: 1.6;
-  text-decoration: none;
 
-}
-
-.icons2 {
-  color: white;
+a i {
+  color: gray;
   padding: 0 30px;
-  font-size: 40px;
   line-height: 1.6;
   text-decoration: none;
-
-}
-
+  font-size: 50px;
+ }
 
 
 
@@ -79,7 +69,7 @@ p {
   box-shadow: 2px 2px 3px #8A8C7D;
   font-size: 16px;
   font-weight: 700;
-  padding: 3px;
+  padding: 2px;
 }
 
 #photo_movies
@@ -125,10 +115,12 @@ p {
   box-shadow: 2px 2px 3px #8A8C7D;
 }
 
-a:hover{
-  color: blue;
+a i:hover{
+   color: blue;
 }
 
-.link {
+
+a {
   text-decoration: none;
+  font-size: 30px;
 }
